@@ -1,0 +1,1 @@
+Entity detection in news articles
